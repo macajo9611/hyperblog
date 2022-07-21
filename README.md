@@ -11,5 +11,6 @@ Eh visto un monton de temas:
 * Remoto:  pull, push, clone, ssh
 * Colaborar: fork
 * Github: entorno, ver y colaborar, entender la estructura de otros proyectos.
+* Creado por Jose Arrieta
 
 **I love programming 🖥️🤍**
